@@ -1,1 +1,2 @@
-echo "Hello Cyware"
+now=$(date)
+echo $now
