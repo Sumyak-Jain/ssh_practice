@@ -1,2 +1,2 @@
 now=$(date)
-echo $now
+echo "hello"
